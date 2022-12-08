@@ -14,6 +14,6 @@ Android studio
 visual studio
 
 python
-kotlin(java로도 시도해보기)
+kotlin(java로 시도해보기)
 
 tensorflow-light
