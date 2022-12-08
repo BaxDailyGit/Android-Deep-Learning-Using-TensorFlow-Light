@@ -7,3 +7,13 @@
 내가 부족한부분인 안드로이드 앱을 개발해보고 모델을 적용시켜보고 이를 기록하기로 한다.
 
 현재로서 시간이 많이 부족하므로 세부설명은 추후에 적기로 한다.
+
+
+개발환경
+Android studio
+visual studio
+
+python
+kotlin(java로도 시도해보기)
+
+tensorflow-light
