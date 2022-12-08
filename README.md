@@ -7,7 +7,7 @@
 내가 부족한부분인 안드로이드 앱을 개발해 모델을 적용시켜보고 이를 기록하기로 한다.
 
 현재로서 시간이 많이 부족하므로 세부설명은 추후에 적기로 한다.
-https://github.com/dualcoder-pe/android_tflite를 많이 참고하였다.
+https://github.com/dualcoder-pe/android_tflite 에서 많이 참고하였다.
 
 개발환경
 Android studio
